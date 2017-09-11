@@ -14,6 +14,6 @@ A tool to minify Javascript and CSS webresource for MS Dynamics CRM
 ```
 > 
  - enable: Turn on the minify function
- - minifyjs: Turn on minify function for javascript file
- - minifycss:  Turn on minify function for css file
- - prefix: only run the function for those files which have one of prefixes in configuration
+ - minifyjs: Turn on minify function for javascript file (.js)
+ - minifycss:  Turn on minify function for css file (.css)
+ - prefix: only run the function for those files which have one of prefixes in configuration (separate by ';')
