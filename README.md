@@ -1,10 +1,8 @@
 A tool to minify Javascript and CSS webresource for MS Dynamics CRM
 -------------------------------------------------------------------
 
->**This tool is based on AjaxMin library ([link here](http://ajaxmin.codeplex.com/))**
-
->**Import solution:** Download solution from repository and import to your organization.
-
+>**This tool is based on AjaxMin library ([link here](http://ajaxmin.codeplex.com/))**<br/>
+>**Import solution:** Download solution from repository and import to your organization.<br/>
 >**Configuration:** Open your Plug-in Registration Tool to connect to your organization. Under create and update steps of **CRMPluginMinify.MinifyWebResource** plugin, check the unsecure configuration like below:
 >
 ```xml
